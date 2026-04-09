@@ -42,7 +42,7 @@ sudo update-alternatives --config java
 
 <div align="center">
  
-https://github.com/xiv3r/Burpsuite-Professional/assets/117867334/c25831a4-68a2-44ee-b6dd-5ff18165f340
+https://github.com/xayaneusa-gif/burpsuit-professional/assets/117867334/c25831a4-68a2-44ee-b6dd-5ff18165f340
 </div>
  
 Note: Copy the license from loader to the burpsuite > manual activation > copy burpsuite request key to loader request >  copy response key to the burpsuite.
@@ -53,7 +53,7 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
 right click the desktop -> create a launcher name it Burpsuite Professional, add command `burpsuitepro` and select burpsuite community icon.
 
 <div align="center">
- <img width="500" height="500" src="https://github.com/xiv3r/Burpsuite-Professional/blob/main/Launcher.jpg">
+ <img width="500" height="500" src="https://github.com/xayaneusa-gif/burpsuit-professional/blob/main/Launcher.jpg">
 </div>
 
 <br>
@@ -181,7 +181,7 @@ sudo cp burp /usr/local/bin/burp
 
 ## Contributors 
 
-<a href="https://github.com/xiv3r/Burpsuite-Professional/graphs/contributors">
+<a href="https://github.com/xayaneusa-gif/burpsuit-professional/graphs/contributors">
   <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=xiv3r/Burpsuite-Professional" alt="contributors"/>
 </a>
 
